@@ -1,2 +1,2 @@
 # WordCount
-2大班结对项目WordCount
+1大班结对项目WordCount
